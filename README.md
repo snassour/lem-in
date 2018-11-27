@@ -3,7 +3,7 @@ Find your way in an anthill
 
 ## Quick Description
 Lem-in finds the fastest way to move all the ants from an entry point to and exit.<br />
-Its default behaviour is to read from the standard input, however, you can use the flag <code>--read</code><br/>
+Its default behaviour is to read from the standard input. However, you can use the flag <code>--read</code><br/>
 in order to read from a file.<br />
 
 Input format :
@@ -25,7 +25,7 @@ a-b
 b-c
 c-d
 ```
-Its default behaviour is to write the output on the standard output, however, you can use the flag <code>--write</code><br/>
+Its default behaviour is to write the output on the standard output. However, you can use the flag <code>--write</code><br/>
 in order to write in a file.<br />
 
 ## Run it
