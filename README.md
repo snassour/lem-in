@@ -30,3 +30,5 @@ in order to write in a file.<br />
 ## Run it
 <code>make ; make clean;</code><br />
 <code>./lem-in [OPTIONAL [--help] [-c] [--path] [--read [INPUT_FILE]] [--write [OUTPUT_FILE]] ]</code><br />
+
+## PDF Link <a href="https://github.com/snassour/lem-in/blob/master/lem-in.fr.pdf">lem-in</a>
