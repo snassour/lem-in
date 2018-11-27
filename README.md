@@ -1,5 +1,5 @@
 # lem-in
-Find your way in an anthill
+Find your way into an anthill
 
 ## Quick Description
 Lem-in finds the fastest way to move all the ants from an entry point to and exit.<br />
