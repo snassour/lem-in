@@ -13,13 +13,14 @@ In the first block, the start and the end are specified using the ##start and ##
 Second block is the map links : point_name_a-point_name_b<br />
 
 ```
-5
+12
 ##start
 a 1 2
 b 3 4
 c 5 6
 ##end
 d 7 8
+e 9 10
 a-b
 b-c
 c-d
